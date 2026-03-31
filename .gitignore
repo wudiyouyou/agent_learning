@@ -4,3 +4,6 @@ __pycache__/
 .env
 .cursor/
 agentscope/
+# Sensitive config files
+runtime-learning/config/config.yaml
+runtime-learning/config/secret.yaml
